@@ -3,12 +3,4 @@ This is for practice
 trying the third time and again 
 
 
-what is this 
-
-yo here are a few more changes 
-
-this is a remote chage 
-and this too
-
-This is to check the fetch command 
-also this 
+the file has been changed 

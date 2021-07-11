@@ -1,7 +1,8 @@
 THis is a feature list on another branch 
 and this is going in a new branch 
 
-this change is made on branch trial 
+this change is made on branch trial
 
-this change is made on trial but remote 
-
+ 
+ this is a change made on trial for the 2nd time 
+ 
